@@ -10,8 +10,9 @@ div.header{
 
 div.name{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 30pt;
+    font-size: 20pt;
     background-color: inherit;
     vertical-align: middle;
     border-left: 50pt;
+    position: relative;
 }
