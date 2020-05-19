@@ -17,19 +17,19 @@ div.content{
 
 div.content-text-start{
     margin-top: 15%;
-    margin-left: 25%;
-    font-size: 30pt;
+    margin-left: 15%;
+    font-size: 25pt;
 }
 
 div.content-text-big{
-    margin-left: 25%;
-    font-size: 75pt;
+    margin-left: 15%;
+    font-size: 55pt;
 }
 
 div.content-text{
     margin-top: 5%;
     margin-left: 25%;
-    font-size: 30pt;
+    font-size: 25pt;
 }
 
 ul.navs{
