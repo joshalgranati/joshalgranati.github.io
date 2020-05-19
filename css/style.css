@@ -26,6 +26,12 @@ div.content-text-big{
     font-size: 30pt;
 }
 
+div.content-text{
+    margin-top: 5%;
+    margin-left: 25%;
+    font-size: 14pt;
+}
+
 ul.navs{
     list-style-type: none;
     margin: 0;
