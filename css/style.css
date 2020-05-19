@@ -16,20 +16,20 @@ div.content{
 }
 
 div.content-text-start{
-    margin-top: 25%;
+    margin-top: 15%;
     margin-left: 25%;
-    font-size: 14pt;
+    font-size: 30pt;
 }
 
 div.content-text-big{
     margin-left: 25%;
-    font-size: 30pt;
+    font-size: 75pt;
 }
 
 div.content-text{
     margin-top: 5%;
     margin-left: 25%;
-    font-size: 14pt;
+    font-size: 30pt;
 }
 
 ul.navs{
