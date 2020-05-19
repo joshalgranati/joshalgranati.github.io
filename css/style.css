@@ -15,12 +15,14 @@ div.content{
     color: #9eabb4;
 }
 
-div.content-text{
+div.content-text-start{
+    margin-top: 25%;
     margin-left: 25%;
     font-size: 14pt;
 }
 
 div.content-text-big{
+    margin-left: 25%;
     font-size: 30pt;
 }
 
@@ -43,7 +45,7 @@ li a.a-nav {
     text-align: center;
     padding: 16pt;
     text-decoration: none;
-    color: #000033;
+    color: #0E2F44;
     font-size: 20pt;
 }
 li a:hover{
