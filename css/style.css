@@ -20,11 +20,15 @@ ul.navs{
     padding: 0;
 }
 
-li.hor{
+li.hor-left{
     float: left;
 }
 
-li a {
+li.hor-right{
+    float: right;
+}
+
+li a.a-nav {
     display: block;
     text-align: center;
     padding: 16pt;
