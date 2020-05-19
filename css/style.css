@@ -21,12 +21,18 @@ ul.navs{
 }
 
 li.hor{
-    display: inline;
+    float: left;
 }
 
 li a {
     display: block;
     text-align: center;
+    padding: 16pt;
+    text-decoration: none;
+    color: white;
+}
+li a:hover{
+    background-color: #3d3d3d;
 }
 
 
