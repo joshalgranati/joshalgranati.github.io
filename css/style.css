@@ -22,12 +22,13 @@ div.content-text-start{
 }
 
 div.content-text-big{
+    margin-top: 2%;
     margin-left: 15%;
     font-size: 55pt;
 }
 
 div.content-text{
-    margin-top: 5%;
+    margin-top: 2%;
     margin-left: 15%;
     font-size: 25pt;
 }
@@ -71,4 +72,8 @@ img.icon{
 
 a.no-show{
     text-decoration: none;
+}
+
+a.no-show:visited, a.no-show:hover{
+    color: #9eabb4;
 }
