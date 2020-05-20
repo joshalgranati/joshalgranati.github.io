@@ -48,6 +48,8 @@ div.about:after{
 
 div.image-round{
     background-image: url("images/grad_pic.JPG");
+    background-position: center;
+    background-repeat: no-repeat;
     border-radius: 10%;
     height: 315pt;
     width: 210pt;
