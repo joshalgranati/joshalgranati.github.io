@@ -46,6 +46,14 @@ div.about:after{
     display: table;
 }
 
+div.image-round{
+    background-image: url("/images/grad_pic.JPG");
+    border-radius: 10%;
+    height: 315pt;
+    width: 210pt;
+    
+}
+
 ul.navs{
     list-style-type: none;
     margin: 0;
