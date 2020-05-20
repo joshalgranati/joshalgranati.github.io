@@ -42,11 +42,6 @@ div.column{
     padding: 10pt;
 }
 
-div.about{
-    margin-top: 10%;
-
-}
-
 div.about:after{
     display: table;
 }
