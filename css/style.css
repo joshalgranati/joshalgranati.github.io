@@ -33,6 +33,24 @@ div.content-text{
     font-size: 25pt;
 }
 
+div.row{
+    display: flex;
+}
+
+div.column{
+    flex: 50%;
+    padding: 10pt;
+}
+
+div.about{
+    margin-top: 10%;
+
+}
+
+div.about:after{
+    display: table;
+}
+
 ul.navs{
     list-style-type: none;
     margin: 0;
